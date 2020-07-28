@@ -12,5 +12,3 @@ Linux: 1. cd /usr/bin/python
        
 Also, you can open the file in IDLE to add your own Sauce or remove some that's already in there. Additionally, you can run the script with IDLE instead. 
 I want to keep updating this and add more Sauce to make this evene a bigger database. 
-
-For the non-degenerates: https://nhentai.net/g/"The Number goes here"/
